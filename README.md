@@ -1,7 +1,7 @@
 # Hi 👋, This is Ahana
 
 ## 💫 About Me:
-🌱 I’m currently learning Python, C++, SQL, MongoDB, DSA, Pytorch.<br>👯 I’m looking to collaborate on ML/DL projects.<br>📫 How to reach me - ahanabiswas09@gmail.com
+🌱 I’m currently in AI and Causal ML.<br>👯 I’m looking to collaborate on ML/DL projects.<br>📫 How to reach me - ahanabiswas09@gmail.com
 
 
 ### 🌐 Socials:
